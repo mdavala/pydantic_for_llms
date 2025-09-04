@@ -1,4 +1,6 @@
 <img width="200" height="200" alt="110818415" src="https://github.com/user-attachments/assets/e48b392b-4e63-4774-b792-2ff3f826d9c1" />
+
+
 #Pydantic for LLMs 🚀
 
 This repository contains Python notebooks demonstrating how to use **Pydantic** with Large Language Models (LLMs).  
